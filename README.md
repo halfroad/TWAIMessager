@@ -1,5 +1,5 @@
-# TWAIMessager
-This Arduino IDE based project showcase how the ESP32-S3 (Should be working for other ESP32 boards) TWAI (Two-Wire Automobile Interface) sends and received normal messages, loopback messages.
+# TWAIMessager, A CAN Bus Messager
+TThis Arduino IDE based project showcases how the ESP32 TWAI (Two-Wire Automobile Interface, a.k.a CAN Bus) sends and received normal, loopback, RTR CAN Bus messages.
 
 ## How to run the project?
 
