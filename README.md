@@ -14,4 +14,4 @@ TThis Arduino IDE based project showcases how the ESP32 TWAI (Two-Wire Automobil
 * Set the Baud Rate of Serial of Arduino IDE to 115200
 * Tweak the timing_config accordingly if there is external CAN bus module.
 * Run and Upload the program.
-* check the Serial Console.
+* Check the Serial Console.
